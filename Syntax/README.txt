@@ -1,0 +1,1 @@
+Open .spy files in a notepad or notepad++ application
